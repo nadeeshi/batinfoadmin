@@ -1,0 +1,21 @@
+            #alredy_bats{
+                font-style: italic;
+                font-size: 13px;
+            
+        
+            }
+           
+            #selected{
+                font-family: 'Copse', serif !important;
+                width: 25%  !important;
+            }
+            .height_default{
+
+                height: 400px;
+
+            }
+            .height_default_edit{
+                height:  400px !important;
+                
+            }
+                  

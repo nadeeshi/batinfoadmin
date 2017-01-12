@@ -1,0 +1,40 @@
+  .sname_control{
+                background-color: #ffffff !important;
+              
+               
+                font-size: 20px;
+                font-weight: 400;
+            }
+            .glyphicon-pencil{
+
+                padding-left: 84%;  
+                top: 24px!important; 
+                color:#15120e!important;
+                font-size: 120%;
+                text-decoration: underline  !important;
+
+            } .glyphicon_my:hover, .glyphicon_my:focus {
+                color: #f30505 !important;
+                text-decoration: none !important;
+                cursor:pointer !important;
+            }
+            .edit{
+                font-family: 'Copse', serif !important;
+
+
+            }
+            
+
+            .form-control[disabled], fieldset[disabled] .form-control {
+                cursor: help !important;
+
+            }
+            .form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+                background-color: #e8e8e8;
+                opacity: 1;
+            }
+            .submit_btn_edit{
+                margin-left: -15px;
+                
+            }
+            
